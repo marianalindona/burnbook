@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+#titulodiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(83, 83, 83);
+    width: 100%;
+    height: 100px;
+    border-radius: 15px;
+}
+
+#titulo {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#iskisitadiv {
+    display: flex;
+    justify-content: center;
+}
+
+#iskisita {
+    padding-top: 10px;
+}
+
+#carecoidediv {
+    display: flex;
+    justify-content: center;
+}
+
+#carecoidetext {
+    color: white;
+    text-align: center;
+}
+
+#carecoide {
+    padding: 10px;
+    width: 616px;
+}
+
+#noticiacarecoide {
+    color: white;
+    text-align: center;
+}
